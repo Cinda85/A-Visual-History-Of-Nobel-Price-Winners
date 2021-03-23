@@ -2,4 +2,4 @@
 - Exploratory Data Analysis
 - Data visualisation with Seaborn
 
-![](\Alfred_Nobel)
+![](/Alfred_Nobel)
