@@ -1,4 +1,4 @@
-# A-Visual-History-Of-Nobel-Price-Winners
+# A Visual History Of Nobel Price Winners
 - Exploratory Data Analysis
 - Data visualisation with Seaborn
 
