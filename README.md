@@ -2,4 +2,4 @@
 - Exploratory Data Analysis
 - Data visualisation with Seaborn
 
-![](https://github.com/Cinda85/A-Visual-History-Of-Nobel-Price-Winners/blob/main/Alfred_Nobel.jpg)
+[Open Guided Notebook](https://github.com/Cinda85/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/blob/main/Discovery%20of%20Handwashing.ipynb)
